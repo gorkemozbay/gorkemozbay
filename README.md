@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @gorkemozbay
-- 🌱 I’m currently learning ROS and C++. 
-- 📫 How to reach me : gorkemozbay0405@gmail.com
+- 🌱 Full-time embedded software developer.
+- 🌱 Developing games in unity and training ML agents to play them independently. 
+- 📫 Reach me: gorkemozbay0405@gmail.com
 
 <!---
 gorkemozbay/gorkemozbay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
